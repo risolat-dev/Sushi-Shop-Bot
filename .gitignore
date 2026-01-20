@@ -1,19 +1,17 @@
+# Python
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
-.env
-check.py
-.idea/
-*.DS_Store
 
-remindertgbot/
-support bot/
+# Env
+.env
+.venv/
+
+# OS files
 .DS_Store
-remindertgbot/
-support bot/
-.DS_Store
-__pycache__/
-*.pyc
-.DS_Store
+
+# Local DB
 sushi_bot.db
+
+# IDE
+.idea/
+.vscode/
