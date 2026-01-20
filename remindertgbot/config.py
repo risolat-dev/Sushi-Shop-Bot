@@ -1,0 +1,4 @@
+BOT_TOKEN =  "8563116092:AAH-RJ0PMHSVzMtS-hCFov3FmepnUGdl3Lk"
+DB_NAME = "reminders.db"
+
+
