@@ -13,3 +13,7 @@ support bot/
 remindertgbot/
 support bot/
 .DS_Store
+__pycache__/
+*.pyc
+.DS_Store
+sushi_bot.db
