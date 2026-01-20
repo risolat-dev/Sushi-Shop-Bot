@@ -15,3 +15,6 @@ sushi_bot.db
 # IDE
 .idea/
 .vscode/
+Sushi Shop Bot/check.py
+remindertgbot/
+support bot/
