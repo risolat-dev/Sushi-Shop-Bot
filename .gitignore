@@ -7,3 +7,6 @@ check.py
 .idea/
 *.DS_Store
 
+remindertgbot/
+support bot/
+.DS_Store
