@@ -1,0 +1,23 @@
+{
+    "uz": {
+        "welcome": "Sushi Shopga xush kelibsiz! /menu ni yozing menyu uchun.",
+        "menu_prompt": "Sushilarimizni tanlang:",
+        "cart_empty": "Savat bo'sh!",
+        "cart_total": "Jami: {total} so'm",
+        "order_success": "Buyurtmangiz qabul qilindi! Jami: {total} so'm"
+    },
+    "ru": {
+        "welcome": "Добро пожаловать в Sushi Shop! Напишите /menu чтобы увидеть меню.",
+        "menu_prompt": "Выберите ваши суши:",
+        "cart_empty": "Ваша корзина пуста!",
+        "cart_total": "Итого: {total} сум",
+        "order_success": "Ваш заказ принят! Итого: {total} сум"
+    },
+    "en": {
+        "welcome": "Welcome to Sushi Shop! Type /menu to see our sushi.",
+        "menu_prompt": "Select your sushi:",
+        "cart_empty": "Your cart is empty!",
+        "cart_total": "Total: {total} UZS",
+        "order_success": "Order placed successfully! Total: {total} UZS"
+    }
+}
